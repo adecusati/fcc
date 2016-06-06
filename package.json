@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "expressjs",
   "version": "1.0.0",
   "description": "",
   "main": "1-hello.js",
@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "~4.13.4"
-  }
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
